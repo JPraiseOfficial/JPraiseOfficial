@@ -29,6 +29,6 @@ Passionate software developer interested in software innovation and building app
 - Always learning & exploring new technologies.
 
 ## 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-jimmypraiseofficial@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:jimmypraiseofficial@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jimmypraise.dev@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:jimmypraise.dev@gmail.com)
 
 ⭐️ **Feel free to check out my repositories and contribute!**
